@@ -5,4 +5,10 @@ The objective of my work is to determine if an article belongs to one journal of
 
 I have also done a report of the project and results obtained.
 
+The project is divided is three parts:
+
+- Preprocessing data: removing punctuation signs, lemmatization, stemming, stopwords, [tf-idf, BoW, hashing], [LSA, LDA]
+- Clustering: KMeans, MiniBatchKMeans, Agglomerative, TSEN (visualization)
+- Classification: ComplementND, PassiveAggressiveClassifier, SGDClassifier, SVC, RandomForest, Logistic Regression
+
 ![alt text](https://github.com/SilviaCalvarro/TextMining/blob/master/text.png)
